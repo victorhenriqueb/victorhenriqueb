@@ -6,7 +6,7 @@
   </h1>
  
 <p>
-💻Estudante de Engenharia de Software, atualmente desenvolvendo pequenos projetos pessoais utilizando apenas HTML, CSS e JavaScript para aplicativos web.
+Estudante de Engenharia de Software, atualmente desenvolvendo pequenos projetos pessoais utilizando apenas HTML, CSS e JavaScript para aplicativos web.
 </p>
  
  </div>
