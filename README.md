@@ -31,7 +31,7 @@ Estudante de Engenharia de Software, atualmente desenvolvendo pequenos projetos 
  
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/victorhenriqueb/victorhenriqueb/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
